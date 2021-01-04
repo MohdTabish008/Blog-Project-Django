@@ -4,3 +4,4 @@ Initiattly problems regarding redirection while editing or updating a post are b
 
 Adding login logout authentication from buily-in Django modules
 Adding comments on blog.	
+Adding APIs to post comment on blogs.
